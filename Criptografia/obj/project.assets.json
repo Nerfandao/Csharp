@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ESTUDOS\\C#\\Stopwatch\\Stopwatch.csproj",
-      "projectName": "Stopwatch",
-      "projectPath": "C:\\Users\\User\\Desktop\\ESTUDOS\\C#\\Stopwatch\\Stopwatch.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\ESTUDOS\\C#\\Criptografia\\Criptografia.csproj",
+      "projectName": "Criptografia",
+      "projectPath": "C:\\Users\\User\\Desktop\\ESTUDOS\\C#\\Criptografia\\Criptografia.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ESTUDOS\\C#\\Stopwatch\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\ESTUDOS\\C#\\Criptografia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
