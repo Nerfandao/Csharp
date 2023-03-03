@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\introCshDio.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\introCshDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\introCshDio.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\introCshDio.AssemblyInfo.cs
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\introCshDio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\introCshDio\introCshDio\bin\Debug\net6.0\introCshDio.exe
+C:\Users\User\source\repos\introCshDio\introCshDio\bin\Debug\net6.0\introCshDio.deps.json
+C:\Users\User\source\repos\introCshDio\introCshDio\bin\Debug\net6.0\introCshDio.runtimeconfig.json
+C:\Users\User\source\repos\introCshDio\introCshDio\bin\Debug\net6.0\introCshDio.dll
+C:\Users\User\source\repos\introCshDio\introCshDio\bin\Debug\net6.0\introCshDio.pdb
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\introCshDio.dll
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\refint\introCshDio.dll
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\introCshDio.pdb
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\introCshDio.genruntimeconfig.cache
+C:\Users\User\source\repos\introCshDio\introCshDio\obj\Debug\net6.0\ref\introCshDio.dll
