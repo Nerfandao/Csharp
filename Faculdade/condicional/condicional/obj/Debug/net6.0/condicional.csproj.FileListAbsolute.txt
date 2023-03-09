@@ -1,0 +1,15 @@
+C:\Users\pucca\source\repos\condicional\condicional\bin\Debug\net6.0\condicional.exe
+C:\Users\pucca\source\repos\condicional\condicional\bin\Debug\net6.0\condicional.deps.json
+C:\Users\pucca\source\repos\condicional\condicional\bin\Debug\net6.0\condicional.runtimeconfig.json
+C:\Users\pucca\source\repos\condicional\condicional\bin\Debug\net6.0\condicional.dll
+C:\Users\pucca\source\repos\condicional\condicional\bin\Debug\net6.0\condicional.pdb
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\condicional.csproj.AssemblyReference.cache
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\condicional.AssemblyInfoInputs.cache
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\condicional.AssemblyInfo.cs
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\condicional.csproj.CoreCompileInputs.cache
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\condicional.dll
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\refint\condicional.dll
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\condicional.pdb
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\condicional.genruntimeconfig.cache
+C:\Users\pucca\source\repos\condicional\condicional\obj\Debug\net6.0\ref\condicional.dll
