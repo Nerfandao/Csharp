@@ -13,3 +13,18 @@ C:\Users\User\Desktop\ESTUDOS\C#\Criptografia\obj\Debug\net6.0\refint\Criptograf
 C:\Users\User\Desktop\ESTUDOS\C#\Criptografia\obj\Debug\net6.0\Criptografia.pdb
 C:\Users\User\Desktop\ESTUDOS\C#\Criptografia\obj\Debug\net6.0\Criptografia.genruntimeconfig.cache
 C:\Users\User\Desktop\ESTUDOS\C#\Criptografia\obj\Debug\net6.0\ref\Criptografia.dll
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\bin\Debug\net6.0\Criptografia.exe
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\bin\Debug\net6.0\Criptografia.deps.json
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\bin\Debug\net6.0\Criptografia.runtimeconfig.json
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\bin\Debug\net6.0\Criptografia.dll
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\bin\Debug\net6.0\Criptografia.pdb
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\Criptografia.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\Criptografia.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\Criptografia.AssemblyInfo.cs
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\Criptografia.dll
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\refint\Criptografia.dll
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\Criptografia.pdb
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\Criptografia.genruntimeconfig.cache
+C:\Users\User\Desktop\Csharp\Faculdade\PIM 2SEM\Criptografia\obj\Debug\net6.0\ref\Criptografia.dll
