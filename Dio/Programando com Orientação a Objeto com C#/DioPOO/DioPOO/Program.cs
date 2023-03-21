@@ -8,13 +8,16 @@
              * Paradigma de programação: Conjunto de regras de uma linguagem
              * Classe: Onde é definido seus atributos e seus metodos(Ação). Basicamente um molde
              * Objeto: É a concretização da classe, onde é usado os atributos e metodos
-             * Abstração: Abstrair um objeto real, para um contexto específico, considerando apenas atributos importante
-             * Encapsulamento: Serve pra proteger uma classe e definir limites para alteração de suas propriedades
-             * Herença: Permite reutilizar atributos, métodos, e comportamentos de uma classe em outras classes
-             * Polimorfismo: Sobescrever métodos das classes filhas para que se comportem de maneira diferente e ter sua própria implementação
-             * Classe Abstrata: Exclusivamente um modelo para ser herdado, portante não pode ser instanciada
+             * 1 - Abstração: Abstrair um objeto real, para um contexto específico, considerando apenas atributos importante
+             * 2 - Encapsulamento: Serve pra proteger uma classe e definir limites para alteração de suas propriedades
+             * 3 - Herença: Permite reutilizar atributos, métodos, e comportamentos de uma classe em outras classes
+             * 3,4 - Polimorfismo: Sobescrever métodos das classes filhas para que se comportem de maneira diferente e ter sua própria implementação
+             * 5 - Classe Abstrata: Exclusivamente um modelo para ser herdado, portante não pode ser instanciada
+             * Classe Selada: Não pode ser herdada, ou seja não pode ter classes filhas. Também tem métodos e propriedades seladas
+             * Classe System.Object: É a mãe de todos as classes na hierarquia, todas as classes derivam da classe object
+             * Interface: É um contrato que pode ser implementado por uma classe, podendo definer metodos abstratos, uma interface não pode ser instanciada
              */
-            
+
             // 1 - Abstração
 
             //Pessoa p1 = new Pessoa();
@@ -52,11 +55,19 @@
             //Console.WriteLine("Resultado da primeira soma: " + calc.Somar(5,8));
             //Console.WriteLine("Resultado da segunda soma: " + calc.Somar(5, 8, 9));
 
-            Corrente c = new Corrente();
-            c.Creditar(100);
-            c.Creditar(204);
-            c.ExibirSaldo();
+            // 5 - Classe Abstrata
+            //Corrente c = new Corrente();
+            //c.Creditar(100);
+            //c.Creditar(204);
+            //c.ExibirSaldo();
 
+            //Computador comp = new Computador();
+            //Console.WriteLine(comp.ToString());
+
+            //ICalculadora calc = new Calculadora();
+            //int num1 = int.Parse(Console.ReadLine());
+            //int num2 = int.Parse(Console.ReadLine());
+            //calc.Dividir(num1, num2);
         }
     }
 }

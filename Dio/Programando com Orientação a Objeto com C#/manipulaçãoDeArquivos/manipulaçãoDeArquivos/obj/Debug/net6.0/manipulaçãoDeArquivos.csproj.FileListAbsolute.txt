@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\bin\Debug\net6.0\manipulaçãoDeArquivos.exe
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\bin\Debug\net6.0\manipulaçãoDeArquivos.deps.json
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\bin\Debug\net6.0\manipulaçãoDeArquivos.runtimeconfig.json
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\bin\Debug\net6.0\manipulaçãoDeArquivos.dll
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\bin\Debug\net6.0\manipulaçãoDeArquivos.pdb
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\manipulaçãoDeArquivos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\manipulaçãoDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\manipulaçãoDeArquivos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\manipulaçãoDeArquivos.AssemblyInfo.cs
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\manipulaçãoDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\manipulaçãoDeArquivos.dll
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\refint\manipulaçãoDeArquivos.dll
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\manipulaçãoDeArquivos.pdb
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\manipulaçãoDeArquivos.genruntimeconfig.cache
+C:\Users\User\source\repos\manipulaçãoDeArquivos\manipulaçãoDeArquivos\obj\Debug\net6.0\ref\manipulaçãoDeArquivos.dll
