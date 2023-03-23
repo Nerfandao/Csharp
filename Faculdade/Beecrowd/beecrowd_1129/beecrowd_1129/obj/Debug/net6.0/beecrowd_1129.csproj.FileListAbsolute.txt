@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\bin\Debug\net6.0\beecrowd_1129.exe
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\bin\Debug\net6.0\beecrowd_1129.deps.json
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\bin\Debug\net6.0\beecrowd_1129.runtimeconfig.json
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\bin\Debug\net6.0\beecrowd_1129.dll
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\bin\Debug\net6.0\beecrowd_1129.pdb
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\beecrowd_1129.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\beecrowd_1129.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\beecrowd_1129.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\beecrowd_1129.AssemblyInfo.cs
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\beecrowd_1129.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\beecrowd_1129.dll
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\refint\beecrowd_1129.dll
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\beecrowd_1129.pdb
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\beecrowd_1129.genruntimeconfig.cache
+C:\Users\User\source\repos\beecrowd_1129\beecrowd_1129\obj\Debug\net6.0\ref\beecrowd_1129.dll
