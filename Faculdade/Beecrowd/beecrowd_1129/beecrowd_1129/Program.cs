@@ -38,8 +38,6 @@ namespace beecrowd_1129
                         respfinal.Add("*");
                     else
                         respfinal.Add(respostaLinha[0]);
-                    //else
-                    //    respfinal.Add("*");
                 }
                 
             }
