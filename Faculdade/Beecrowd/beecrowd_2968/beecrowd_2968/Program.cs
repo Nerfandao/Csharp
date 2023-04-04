@@ -1,19 +1,21 @@
-﻿namespace beecrowd_2968
+﻿
+namespace beecrowd_2968
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            float voltas, placas, media1;
+            int voltas, placas;
+            double media1;
             string[] entrada;
 
             entrada = Console.ReadLine().Split(' ');
 
-            voltas = float.Parse(entrada[0]);
-            placas = float.Parse(entrada[1]);
+            voltas = int.Parse(entrada[0]);
+            placas = int.Parse(entrada[1]);
 
-            media1 = voltas * placas / 10;
-            float media = media1;
+            media1 = (voltas * placas) / 10.0;
+            double media = media1;
 
             Console.Write(Math.Ceiling(media));
 
@@ -23,6 +25,7 @@
                 Console.Write(" ");
                 Console.Write(Math.Ceiling(media));
             }
+            Console.WriteLine();
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\bin\Debug\net6.0\beecrowd_2415.exe
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\bin\Debug\net6.0\beecrowd_2415.deps.json
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\bin\Debug\net6.0\beecrowd_2415.runtimeconfig.json
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\bin\Debug\net6.0\beecrowd_2415.dll
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\bin\Debug\net6.0\beecrowd_2415.pdb
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\beecrowd_2415.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\beecrowd_2415.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\beecrowd_2415.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\beecrowd_2415.AssemblyInfo.cs
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\beecrowd_2415.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\beecrowd_2415.dll
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\refint\beecrowd_2415.dll
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\beecrowd_2415.pdb
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\beecrowd_2415.genruntimeconfig.cache
+C:\Users\User\source\repos\beecrowd_2415\beecrowd_2415\obj\Debug\net6.0\ref\beecrowd_2415.dll

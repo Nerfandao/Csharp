@@ -45,6 +45,7 @@ namespace beecrowd_1129
             {
                 Console.WriteLine(i);
             }
+            respfinal.Clear();
         }
     }
 }
